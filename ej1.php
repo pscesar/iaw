@@ -2,18 +2,9 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Enteros</title>
+    <title>PHP - Hola Mundo!</title>
 </head>
 <body>
-        <?php
-
-        $x = 5985;
-        var_dump($x);
-
-        echo "<br>";
-        $y = 59.85;
-        var_dump(is_int($y));
-
-        ?>
+        <h1><?php echo 'Hola Mundo!'; ?></h1>
 </body>
 </html>
